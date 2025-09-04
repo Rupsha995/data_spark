@@ -1,7 +1,7 @@
-#DataSpark: Illuminating Insights for Global Electronics
+# DataSpark: Illuminating Insights for Global Electronics
 
 ## Introduction
-       This project is basically an EDA project.here we are provided with five types of datasets and we are going to clean,analyze,visualize the insights we collected from data.
+This project is basically an EDA project.here we are provided with five types of datasets and we are going to clean,analyze,visualize the insights we collected from data.
 
 ## Data Sets
 
@@ -32,4 +32,4 @@
 5.Intrepreting datasets with sql queries
 ## Conclusion
      
-    Thus we have provided an efficient EDA process to the complicative datasets and found illuminating insights .
+Thus we have provided an efficient EDA process to the complicative datasets and found illuminating insights .
